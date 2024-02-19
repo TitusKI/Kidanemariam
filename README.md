@@ -68,10 +68,12 @@
 <hr/>
 
 <br/>
-
-<div align="center" style="border: 2px solid #ff6f61; border-radius: 5px; padding: 10px; background-color: #ffcccb; color: #333; font-size: 20px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-  <p>Eat, sleep, code, repeat</p>
+<div align="center">
+  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; font-size: 20px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    Eat, sleep, code, repeat
+  </button>
 </div>
+
 
 
 
