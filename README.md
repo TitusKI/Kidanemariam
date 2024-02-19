@@ -69,12 +69,10 @@
 
 <br/>
 
-<div align="center">
-  <a style="border: 0px;" target="_blank">
-    <img height="64" style="border: 0px; height: 64px;" border="0" alt="Eat, sleep, code, repeat" />
-  </a>
+<div align="center" style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; background-color: #f2f2f2; color: #4CAF50; font-size: 24px; font-weight: bold;">
   <p>Eat, sleep, code, repeat</p>
 </div>
+
 
 
 <br/>
