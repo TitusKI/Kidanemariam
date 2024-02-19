@@ -69,9 +69,10 @@
 
 <br/>
 
-<div align="center" style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; background-color: #f2f2f2; color: #4CAF50; font-size: 24px; font-weight: bold;">
+<div align="center" style="border: 2px solid #ff6f61; border-radius: 5px; padding: 10px; background-color: #ffcccb; color: #333; font-size: 20px; font-weight: bold; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   <p>Eat, sleep, code, repeat</p>
 </div>
+
 
 
 
